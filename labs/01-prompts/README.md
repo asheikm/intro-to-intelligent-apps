@@ -8,6 +8,8 @@ ___
 * Exercise: Write a prompt that generates the expected completion
 * Input text: `I was enjoying the sun, but then a huge cloud came and covered the sky.`
 * Expected completion: `Ich genoss die Sonne, aber dann kam eine riesige Wolke und bedeckte den Himmel.`
+Ans:
+* System Message: Translate the following text to German:
 
 ___
 
@@ -16,6 +18,8 @@ ___
 * Exercise: Write a prompt that generates the expected completion
 * Input text: `I was enjoying the sun, but then a huge cloud came and covered the sky.`
 * Expected completion: `I was not enjoying the sun, and then a huge cloud did not come and cover the sky.`
+
+* System Message: make the text not done by adding not
 
 ___
 
